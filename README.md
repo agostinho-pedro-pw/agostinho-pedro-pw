@@ -10,7 +10,7 @@
 
 ## | Tecnologias e ferramentas
 
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=laravel,php,python,mysql,html,css,js,bootstrap&perline=7" height="1300" alt="HTML, CSS, JavaScript, Node.js, Python, Java, PHP, C, C++, C#, Laravel, MySQL e Bootstrap" />
 </p>
 
