@@ -8,13 +8,13 @@
 
 <p align="center">
   <a href="https://github.com/agostinho-francisco-pw">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://skillicons.dev/icons?i=github" height="70" alt="GitHub" />
   </a>
   <a href="https://www.linkedin.com/in/TEU-PERFIL/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://skillicons.dev/icons?i=linkedin" height="70" alt="LinkedIn" />
   </a>
   <a href="https://wa.me/TEUNUMERO">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+    <img src="https://img.icons8.com/color/96/whatsapp--v1.png" height="70" alt="WhatsApp" />
   </a>
 </p>
 
