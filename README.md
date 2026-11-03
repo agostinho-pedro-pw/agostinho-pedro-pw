@@ -13,7 +13,7 @@
 ## | Tecnologias e ferramentas
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=laravel,php,python,mysql,html,css,js,bootstrap&perline=8" height="90" alt="Laravel, PHP, Python, MySQL, HTML, CSS, JavaScript e Bootstrap" />
+  <img src="https://skillicons.dev/icons?i=laravel,php,python,mysql,html,css,js,bootstrap,linkedin&perline=8" height="90" alt="Laravel, PHP, Python, MySQL, HTML, CSS, JavaScript e Bootstrap" />
 </p>
 
 ## | Estatísticas do GitHub
