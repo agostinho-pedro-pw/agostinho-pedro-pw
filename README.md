@@ -1,8 +1,8 @@
 # Olá! Eu sou o Agostinho Francisco 👋
 
--> Estudante e entusiasta de programação  
--> A aprender e desenvolver projetos com PHP, Laravel e MySQL  
--> Interessado em tecnologia e desenvolvimento de aplicações
+||| Desenvolvedor em formação, movido pela curiosidade e pela vontade de criar soluções digitais.  
+|| A transformar ideias em projetos com PHP, Laravel e MySQL.  
+| Sempre a aprender, a evoluir e a explorar novas possibilidades através da tecnologia.
 
 ## Encontra-me
 
