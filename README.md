@@ -7,22 +7,27 @@
 ## Encontra-me
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=github,linkedin,whatsapp&perline=8" height="90" alt="Laravel, PHP, Python, MySQL, HTML, CSS, JavaScript e Bootstrap" />
+  <a href="https://github.com/agostinho-francisco-pw">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://www.linkedin.com/in/TEU-PERFIL/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://wa.me/TEUNUMERO">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+  </a>
 </p>
+
 ## | Tecnologias e ferramentas
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=laravel,php,python,mysql,html,css,js,bootstrapn&perline=8" height="90" alt="Laravel, PHP, Python, MySQL, HTML, CSS, JavaScript e Bootstrap" />
+  <img src="https://skillicons.dev/icons?i=laravel,php,python,mysql,html,css,js,bootstrap&perline=8" height="90" alt="Laravel, PHP, Python, MySQL, HTML, CSS, JavaScript e Bootstrap" />
 </p>
 
-## | Estatísticas do GitHub
+## | A construir o meu caminho na tecnologia
 
-![Estatísticas do GitHub de Agostinho](https://github-readme-stats.vercel.app/api?username=agostinho-francisco-pw&show_icons=true&theme=dracula)
+> Cada projeto é uma oportunidade para aprender, experimentar e transformar ideias em soluções digitais.
 
-![Linguagens mais utilizadas](https://github-readme-stats.vercel.app/api/top-langs/?username=agostinho-francisco-pw&layout=compact&theme=dracula)
-
-## | Sobre mim
-
-Sou apaixonado por tecnologia e programação. Estou a desenvolver as minhas competências e a criar projetos para transformar ideias em aplicações úteis.
+**Actualmente a explorar:** PHP · Laravel · MySQL · Python
 
 ## 👋 Até breve!
