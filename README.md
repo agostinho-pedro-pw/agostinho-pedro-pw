@@ -1,6 +1,6 @@
-# Olá! Eu sou o Agostinho Francisco 👋
+# Olá! Eu sou o Agostinho👋
 
-||| Desenvolvedor em formação, movido pela curiosidade e pela vontade de criar soluções digitais.  
+||| Desenvolvedor, movido pela curiosidade e pela vontade de criar soluções digitais.  
 || A transformar ideias em projetos com PHP, Laravel e MySQL.  
 | Sempre a aprender, a evoluir e a explorar novas possibilidades através da tecnologia.
 
